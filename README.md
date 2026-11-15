@@ -1,0 +1,1 @@
+# Amdahl_buddy
